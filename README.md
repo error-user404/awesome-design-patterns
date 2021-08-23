@@ -201,3 +201,7 @@
 ## Other Awesome Lists
 - Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) list.
 
+
+## Copyright:
+| [<img src="https://github.com/DovAmir.png?size=115" width=115><br><sub>@DovAmir</sub>](https://github.com/DovAmir) |
+| :---: |
